@@ -29,20 +29,18 @@ I'm a Software Engineer with about 3 years of experience in software development
    
 <!-- GITHUB STATS -->
 <hr>
-<div style="display: block;">
-<p>
-  <h3 align="center">Stats</h3>
-<p>
-    <a align="center">
-      <p><img align="center" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=enrimon15&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,php,html&langs_count=3" alt="enrimon15" /></p></a>
-
-</p>
+<div style="display: flex; justify-content: center;">
+  <div style="width: 50%;">
+    <h3 align="center">📊 Stats</h3>
+    <p>
+      <a align="center">
+        <img align="center" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=enrimon15&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,php,html&langs_count=3" alt="enrimon15" />
+      </a>
+    </p>
+  </div>
 </div>
-<hr>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
