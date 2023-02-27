@@ -22,9 +22,9 @@ I'm a Software Engineer with about 3 years of experience in software development
 <hr>      
 <h3 align="center"> 💬 If you have any questions, feel free to reach out to me through my channels: </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/enrico-monte-b2082118b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:enrico.monte97@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://enricomonte.dev" target="blank"><img align="center" src="https://img.shields.io/badge/My%20Website-292929?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/enrico-monte-b2082118b/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:enrico.monte97@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://enricomonte.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/My%20Website-292929?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
    
