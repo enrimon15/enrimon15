@@ -25,7 +25,7 @@ I'm a Software Engineer with about 3 years of experience in software development
   <a href="https://www.linkedin.com/in/enrico-monte-b2082118b/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:enrico.monte97@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://enricomonte.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/My%20Website-292929?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://bento.me/enricomonte" target="_blank"><img align="center" src="https://img.shields.io/badge/Landing%20Page-FFC300?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="https://bento.me/enricomonte" target="_blank"><img align="center" src="https://img.shields.io/badge/Landing%20Page-FF8B00?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
 
    
