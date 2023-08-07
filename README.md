@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2 align="center">Hi there 👋</h1><br>
 <!-- ABOUT YOU -->
 
-I'm a Software Engineer with about 3 years of experience in software development. I have a strong focus on back-end development, although I also enjoy working on front-end projects. I have a degree in computer science and a master in mobile and web technologies. I'm very ambitious, so I'm constantly seeking out new challenges and opportunities to expand my knowledge and skill set. I'm always excited to learn about new technologies and how they can be leveraged to solve complex problems.
+I'm a Software Engineer with about 4 years of experience in software development. I have a strong focus on back-end development, although I also enjoy working on front-end projects. I have a degree in computer science and a master in mobile and web technologies. I'm very ambitious, so I'm constantly seeking out new challenges and opportunities to expand my knowledge and skill set. I'm always excited to learn about new technologies and how they can be leveraged to solve complex problems.
 
 <!-- CONNECTION -->
 <hr>      
